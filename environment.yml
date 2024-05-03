@@ -1,0 +1,6 @@
+name: earsraw
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - click
